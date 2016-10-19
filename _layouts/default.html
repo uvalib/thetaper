@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {% include head.html %}
+
+  <body>
+
+    <uvalib-page navigation='[
+            {"label": "TheTaper", "url": "{{ full_base_url }}/", "type": "title"},
+            {% for my_page in site.pages %}
+              {% if my_page.title %}
+              {"label": "{{ my_page.title | escape }}", "url": "{{ my_page.url | prepend: full_base_url }}"}{% if !forloop.last %},{% endif %}
+              {% endif %}
+            {% endfor %}
+          ]'>
+
+      <app-header reveals header>
+        <app-toolbar>
+          <div main-title>The Taper</div>
+        </app-toolbar>
+      </app-header>
+
+      <div class="wrapper">
+        {{ content }}
+      </div>
+
+    </uvalib-page>
+
+  </body>
+
+</html>

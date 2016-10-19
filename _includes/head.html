@@ -1,0 +1,31 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+
+  {% assign custom_url = site.url | append: site.baseurl %}
+  {% assign full_base_url = custom_url | default: site.github.url %}
+
+  <script>
+      (function() {
+        if ('registerElement' in document
+            && 'import' in document.createElement('link')
+            && 'content' in document.createElement('template')) {
+          // platform is good!
+        } else {
+          document.write( '<script src="//static.lib.virginia.edu/bower_components/webcomponentsjs/webcomponents-lite.min.js">\x3C/script>');
+        }
+      })();
+  </script>
+  <link rel="import" href="//static.lib.virginia.edu/bower_components/uvalib-page/uvalib-page.html">
+  <link rel="import" href="//static.lib.virginia.edu/bower_components/app-layout/app-header/app-header.html">
+
+  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: full_base_url }}">
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: full_base_url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | prepend: full_base_url }}">
+
+
+</head>
