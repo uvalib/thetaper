@@ -28,7 +28,7 @@
   <link rel="import" href="//static.lib.virginia.edu/bower_components/app-layout/app-scroll-effects/app-scroll-effects.html">
   <link rel="import" href="//static.lib.virginia.edu/bower_components/iron-flex-layout/iron-flex-layout.html">
 
-<!--  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: full_base_url }}"> -->
+  <!--<link rel="stylesheet" href="{{ "/css/main.css" | prepend: full_base_url }}">-->
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: full_base_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | prepend: full_base_url }}">
 
@@ -104,8 +104,14 @@
       background-color: var(--color-white);
       position: relative;
       top: 212px;
+
+      height: 500px;
+
     }
     .content {
+      width: 100%;
+      margin-left: 20px;
+      margin-right: 20px;
       max-width: 1200px;
     }
 
