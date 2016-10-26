@@ -35,6 +35,7 @@ prose:
     - README.md
     - index.md
     - _config.yml
+    - /_posts/testpost
     - /_layouts
     - /_includes
   media: "images"
