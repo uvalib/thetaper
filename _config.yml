@@ -38,8 +38,6 @@ prose:
     - index.md
     - _config.yml
     - /_posts/testpost
-    - /_layouts
-    - /_includes
   media: "images"
   metadata:
     _posts:
