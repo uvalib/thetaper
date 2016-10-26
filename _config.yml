@@ -64,3 +64,13 @@ prose:
           label: "Post title"
           placeholder: "Title"
           alterable: true
+      - name: "excerpt"
+        field:
+          element: "textarea"
+          label: "Excerpt"
+          help: "Fill this in to provide an excerpt"
+      - name: "excerpt_separator"
+        field:
+          element: "text"
+          help: "If this is filled in, the entire post will be displayed up to the seperator placeholder."
+          placeholder: "Replace with something like: <!--more-->"
