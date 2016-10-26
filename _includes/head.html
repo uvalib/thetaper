@@ -27,6 +27,7 @@
   <link rel="import" href="//static.lib.virginia.edu/bower_components/app-layout/app-toolbar/app-toolbar.html">
   <link rel="import" href="//static.lib.virginia.edu/bower_components/app-layout/app-scroll-effects/app-scroll-effects.html">
   <link rel="import" href="//static.lib.virginia.edu/bower_components/iron-flex-layout/iron-flex-layout.html">
+  <link rel="import" href="//static.lib.virginia.edu/bower_components/paper-material/paper-material.html">
 
   <!--<link rel="stylesheet" href="{{ "/css/main.css" | prepend: full_base_url }}">-->
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: full_base_url }}">
@@ -56,6 +57,10 @@
     uva-footer uvalib-logo {
       width: 200px;
     }
+    uva-footer a {
+      color: inherit;
+      text-decoration: underline;
+    }
 
     app-header {
       z-index: 10000;
@@ -68,6 +73,11 @@
       background-color: var(--color-primary-orange);
       color: var(--color-white);
     }
+
+    app-toolbar a {
+      color: inherit;
+    }
+
     app-toolbar h1, app-toolbar h2 {
       color: var(--color-white);
     }
@@ -118,7 +128,14 @@
       margin-right: 40px;
       max-width: 1200px;
     }
-
+/*
+    article img {
+      border-radius: 5px;
+      box-shadow:
+       0 0 0 5px white,
+       0 0 0 6px black;
+    }
+*/
     @media (max-width: 639px) {
       [main-title] {
         margin-left: 50px;

@@ -8,14 +8,14 @@
       <app-header condenses reveals effects="waterfall resize-title blend-background parallax-background">
         <app-toolbar>
           <uvalib-logo text-only stacked reverse></uvalib-logo>
-          <h2 condensed-title>The Taper</h2>
+          <a href="/"><h2 condensed-title>The Taper</h2></a>
           <!--<paper-icon-button icon="search"></paper-icon-button>-->
         </app-toolbar>
         <app-toolbar class="tall">
-          <h1 main-title>
+          <a href="/"><h1 main-title>
             The Taper<br/>
             <span style="font-size:.5em;">Copyright and Publication Issues</span>
-          </h1>
+          </h1></a>
         </app-toolbar>
       </app-header>
 
@@ -25,7 +25,11 @@
         </div>
       </div>
 
-      <uva-footer drop-logo></uva-footer>
+      <uva-footer drop-logo>
+        <div class="column-4">
+          <p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+        </div>
+      </uva-footer>
 
   </body>
 
