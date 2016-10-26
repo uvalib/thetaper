@@ -47,12 +47,16 @@
     body {
       margin: 0;
     }
+
     uva-footer {
+      position: relative;
+      z-index: 10000;
       background-color: var(--color-primary-orange);
     }
     uva-footer uvalib-logo {
       width: 200px;
     }
+
     app-header {
       z-index: 10000;
       position: fixed;
@@ -104,8 +108,8 @@
       background-color: var(--color-white);
       position: relative;
       top: 212px;
-
-      height: 500px;
+      padding-bottom: 212px;
+      min-height: 500px;
 
     }
     .content {
