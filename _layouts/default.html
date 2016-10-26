@@ -3,30 +3,35 @@
 
   {% include head.html %}
 
-  <body>
+  <body class="fullbleed" unresolved>
 
-    <uvalib-page navigation='[
-            {"label": "TheTaper", "url": "{{ full_base_url }}/", "type": "title"},
-            {% for my_page in site.pages %}
-              {% if my_page.title %}
-              {"label": "{{ my_page.title | escape }}", "url": "{{ my_page.url | prepend: full_base_url }}"}{% if !forloop.last %},{% endif %}
-              {% endif %}
-            {% endfor %}
-          ]'>
-
-      <app-header reveals header>
+      <app-header condenses reveals effects="waterfall resize-title blend-background parallax-background">
         <app-toolbar>
-          <div main-title>The Taper</div>
+          <uvalib-logo text-only stacked reverse></uvalib-logo>
+          <h2 condensed-title>The Taper</h2>
+          <!--<paper-icon-button icon="search"></paper-icon-button>-->
+        </app-toolbar>
+        <app-toolbar class="tall">
+          <h1 main-title>
+            The Taper<br/>
+            <span style="font-size:.5em;">UVA Library's source for information about copyright and publication issues</span>
+          </h1>
         </app-toolbar>
       </app-header>
 
-      <div class="wrapper">
-        {{ content }}
+      <div class="content-holder">
+        <div class="content">
+           <h1>Foo</h1>
+           {{ content }}
+           <h1>Bar</h1>
+        </div>
       </div>
 
-      <div footer></div>
-      
-    </uvalib-page>
+      <uva-footer drop-logo>
+        <div class="column-1">
+          <uvalib-logo centered reverse></uvalib-logo>
+        </div>
+      </uva-footer>
 
   </body>
 
