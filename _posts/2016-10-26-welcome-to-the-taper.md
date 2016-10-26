@@ -63,7 +63,7 @@ First, in copyright doctrine there is something called the “idea-expression di
 
 Second, another possible meaning of a “taper” is someone who records something, like the [ignominious “home taper”](http://williampatry.blogspot.com/2008/01/what-riaa-has-said-about-home-taping.html) of the 1970s and ‘80s (and into the 90s, with the never-to-be-sufficiently-studied DAT technology), whose mix tapes and bootlegs were going to destroy the recording industry. 
 
-![The Dead Kennedys stance on home taping was not subtle!]({{site.baseurl}}/http://www.metalinjection.net/wp-content/uploads/2012/03/Dead-Kennedys-Home-Taping-Is-Killing-Record-Industry-Profits.jpeg)
+![The Dead Kennedys stance on home taping was not subtle!](http://www.metalinjection.net/wp-content/uploads/2012/03/Dead-Kennedys-Home-Taping-Is-Killing-Record-Industry-Profits.jpeg)
 
 There’s something to be said for keeping that person in mind, too, as we think about the information ecosystem. Jefferson himself [argued](https://www.lockss.org/about/) that proliferating copies far and wide was an important form of historic preservation: 
 
