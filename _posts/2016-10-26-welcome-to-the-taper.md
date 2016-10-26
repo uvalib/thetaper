@@ -15,6 +15,7 @@ In this inaugural post I want to say a word (or a few hundred…hang in there!) 
 > He who receives an idea from me, receives instruction himself without lessening mine; as he who lights his taper at mine, receives light without darkening me.
 
 ![“Candle” photo by The Bees]({{site.baseurl}}/images/2141536533_f8050c53c3_z.jpg)
+
 *[”Candle”](https://www.flickr.com/photos/thebees/2141536533/in/photolist-4geWcF-4SvY1w-ccf3oL-4om4EZ-63UReh-9myrB9-bxLG9B-bsbkSo-9pghK9-7ZDWL9-i8b1Xg-beUneD-6xN1q1-9eDAB9-vgcr8-JkjYy-7iLLnZ-48f6Rh-e45w4S-953BZ8-9rDBPh-JkjZG-9efSth-4zDPhL-4SrJia-7PPGpo-4HSGWG-aJg3KB-rYVDD-8Nw6Tk-aDQ3X-fnnshd-7cAi5Q-5GRPAq-4sWiNh-4VGbe3-7uuQiZ-9KswAE-c6e5kG-7y2xyt-4k6wwv-cms5r-4fvhuN-byb9XN-4WJAY4-4CbG2b-7uJFRq-6BZnyc-2Dfycc-a1JGGd) by The Bees, [CC-BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/)*
 
 Ideas, and intangible creations generally (including creative works of the kind subject to copyright protection, as well as inventions that are subject to patent), have this character, which economists call “[non-rival](https://en.wikipedia.org/wiki/Rivalry_(economics)),” - they are not depleted by increased use. That’s why, as Nina Paley’s jaunty cartoon explains, [copying is not theft](https://www.youtube.com/watch?v=IeTybKL1pM4). But in some cases, copying is an infringement of copyright. Why is that?
