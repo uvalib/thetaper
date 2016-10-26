@@ -28,6 +28,11 @@ prose:
   siteurl: 'http://thetaper.library.virginia.edu/'
   #relativeLinks: 'http://thetaper.library.virginia.edu/links.jsonp'
   ignore:
+    - .gitignore
+    - "CNAME"
+    - Gemfile
+    - Gemfile.lock
+    - README.md
     - index.md
     - _config.yml
     - /_layouts
