@@ -17,7 +17,7 @@ title: The Taper
 email: bcb4y@virginia.edu
 description: > # this means to ignore newlines until "baseurl:"
   UVA Library's source for information about copyright and publication issues
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://thetaper.library.virginia.edu" # the base hostname & protocol for your site
 
 # Build settings
@@ -25,7 +25,6 @@ markdown: kramdown
 theme: minima
 
 prose:
-  rooturl: '_posts'
   siteurl: 'http://thetaper.library.virginia.edu/'
   #relativeLinks: 'http://thetaper.library.virginia.edu/links.jsonp'
   ignore:
@@ -33,6 +32,7 @@ prose:
     - _config.yml
     - /_layouts
     - /_includes
+  media: "images"
   metadata:
     _posts:
       - name: "layout"
