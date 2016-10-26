@@ -1,7 +1,7 @@
 ---
 layout: post
 date: '2016-10-26 09:40 -0400'
-published: false
+published: true
 title: Researching the 1918 Flu Epidemic in Virginia
 ---
 In 1918, a new strain of influenza swept around the world. Before it was done, it had killed approximately 30 million people. In the United States at least 750,000 died in only a few months—the equivalent today of almost 2.5 million.  When the epidemic arrived in Virginia, 25% to 30% of the population caught the virus and thousands died, including six U.Va. students and a nationally known faculty member.
