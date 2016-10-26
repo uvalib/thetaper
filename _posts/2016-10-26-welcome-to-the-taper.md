@@ -8,10 +8,11 @@ categories:
   - Jefferson
   - theory
   - copyright
+excerpt_separator: <!--more-->
 ---
 Welcome to The Taper, a blog about copyright and related library policy issues as seen from my office at the [University of Virginia Library](http://library.virginia.edu), the spiritual (and, originally, the [physical](http://rotunda.virginia.edu/history)!) heart of Thomas Jefferson’s “academical village.” I’m Brandon Butler, the new(-ish) Director of Information Policy for the Library, and I’ll be the blog’s primary author. It will also be my privilege to host guest posts from my colleagues at the Library and beyond, who will appear on these pages in the coming days and weeks to let you know about all the cool stuff they are doing to foster a better-functioning scholarly ecosystem on Grounds and beyond. 
 
-I hope you’ll bookmark us, or subscribe to our feed, to get updates on our work and to hear what we think about the news of the day in the neighboring kingdoms of Library- and Copyrightland. 
+I hope you’ll bookmark us, or subscribe to our feed, to get updates on our work and to hear what we think about the news of the day in the neighboring kingdoms of Library- and Copyrightland. <!--more-->
 
 ## The Taper: A Foundational Insight
 
