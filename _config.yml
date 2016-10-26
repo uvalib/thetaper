@@ -72,5 +72,6 @@ prose:
       - name: "excerpt_separator"
         field:
           element: "text"
+          label: "Excerpt Separator"
           help: "If this is filled in, the entire post will be displayed up to the seperator placeholder."
           placeholder: "Replace with something like: <!--more-->"
