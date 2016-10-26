@@ -11,6 +11,7 @@ layout: default
               <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
             </h2>
             {{ post.excerpt }}
+            <uvalib-button raised href="{{ post.url | prepend: site.baseurl }}">Read More</uvalib-button>
 
           {% if forloop.last == false %}
           <hr />
