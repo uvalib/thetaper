@@ -20,6 +20,9 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://thetaper.library.virginia.edu" # the base hostname & protocol for your site
 
+disqus:
+    shortname: thetaper
+
 # Build settings
 markdown: kramdown
 theme: minima
@@ -47,6 +50,12 @@ prose:
         field:
           element: "hidden"
           value: "post"
+      - name: "comments"
+        field:
+          element: "checkbox"
+          label: "Comments"
+          help: "Enable Disqus comments"
+          value: true
       - name: "categories"
         field:
           element: "multiselect"
