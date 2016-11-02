@@ -9,15 +9,15 @@ categories:
   - federal funding
   - NIH
   - OSTP
-excerpt: >-
-  In a guest post, UVA's Open Publishing Librarian Dave Ghamandi provides some
-  commentary on a recent Postl....
+excerpt_separator: <!--more-->
 ---
-Despite my general disappointment with the Obama administration, there have been some commendable actions: ending some of the worse abuses of credit card companies and the health insurance industry; halting the deportation of the young DREAMers; and more relevantly, issuing the 2013 memorandum on “[Increasing Access to the Results of Federally Funded Scientific Research](https://www.whitehouse.gov/sites/default/files/microsites/ostp/ostp_public_access_memo_2013.pdf).”
+*In this guest post, UVA Open Publishing Librarian Dave Ghamandi provides commentary on the state of the federal government's open access policies, and in particular on the OSTI's recent blog post on the "compromises" involved in working with publishers to provide open access to federally-funded scholarship. It's important to applaud our friends in government when they move in the right direction, but Dave's message here is equally important: we must also question dubious compromises and half-measures along the way, before they harden into accepted practice.*
+
+Despite my general disappointment with the Obama administration, there have been some commendable actions: ending some of the worse abuses of credit card companies and the health insurance industry; halting the deportation of the young DREAMers; and more relevantly, issuing the 2013 memorandum on “[Increasing Access to the Results of Federally Funded Scientific Research](https://www.whitehouse.gov/sites/default/files/microsites/ostp/ostp_public_access_memo_2013.pdf).” 
 
 The Administration should be applauded for requiring public access to peer-reviewed publications and data that result from federally funded scientific research.  The technology to grant the public (who are more than just taxpayers) access to this research has been around for a long time, and the NIH has been providing worldwide access to their research since 2008.  
 
-However, while taking a critical look at the OSTP’s justification for the memo, public access was mentioned less as a public good—one that strengthens a democratic public sphere—and more as a commercial gain: “research…catalyzes innovating breakthroughs that drive our economy,” “wider availability of peer-reviewed publications…will create innovative economic markets, “[the policy] will … promote entrepreneurship, and enhance economic growth and job creation.”
+However, while taking a critical look at the OSTP’s justification for the memo, public access was mentioned less as a public good—one that strengthens a democratic public sphere—and more as a commercial gain: “research…catalyzes innovating breakthroughs that drive our economy,” “wider availability of peer-reviewed publications…will create innovative economic markets, “[the policy] will … promote entrepreneurship, and enhance economic growth and job creation.”<!--more-->
 
   
 
