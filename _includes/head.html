@@ -42,6 +42,7 @@
   <style is="custom-style" include="uvalib-theme">
 
     :root {
+      --font-title: 'Playfair Display', serif;
       --font-primary: 'Work Sans', sans-serif;
     }
 
@@ -111,7 +112,7 @@
     }
 
     app-toolbar h1, app-toolbar h2 {
-      font-family: 'Playfair Display', serif;
+      font-family: var(--font-title);
       color: var(--color-white);
     }
     app-toolbar h2[condensed-title] {
