@@ -13,7 +13,7 @@ I hope you’ll bookmark us, or subscribe to our feed, to get updates on our wor
 
 ## The Taper: A Foundational Insight
 
-In this inaugural post I want to say a word (or a few hundred…hang in there!) about the blog’s name. If you’ve had more than a glancing encounter with ideas of intellectual property and information policy, you have probably seen Thomas Jefferson’s [famous meditation](http://press-pubs.uchicago.edu/founders/print_documents/v1ch16s25.html) (from his [letter](http://founders.archives.gov/documents/Jefferson/03-06-02-0322) to Isaac McPherson, 1813) on the power of ideas to spread from one person to another, enriching all and depriving none. The heart of it, and the part that is most likely to end up on a t-shirt or bumper sticker, is this lovely metaphor:
+In this inaugural post I want to say a word (or a few hundred…hang in there!) about the blog’s name. If you’ve had more than a glancing encounter with ideas of intellectual property and information policy, you have probably seen Thomas Jefferson’s [famous meditation](http://press-pubs.uchicago.edu/founders/print_documents/v1ch16s25.html) (from his [letter](http://founders.archives.gov/documents/Jefferson/03-06-02-0322) to Isaac McPherson, 1813) on the power of ideas to spread from one person to another, enriching all and depriving none. The heart of it, and the part that is most likely to end up on a t-shirt or bumper sticker, is this lovely simile:
 
 > He who receives an idea from me, receives instruction himself without lessening mine; as he who lights his taper at mine, receives light without darkening me.
 
