@@ -6,7 +6,7 @@
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
 
-  <link href="https://fonts.googleapis.com/css?family=Playfair+Display|Work+Sans" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Playfair+Display|Work+Sans|Eczar|Libre+Franklin" rel="stylesheet">
 
   {% assign custom_url = site.url | append: site.baseurl %}
   {% assign full_base_url = custom_url | default: site.github.url %}
@@ -42,8 +42,8 @@
   <style is="custom-style" include="uvalib-theme">
 
     :root {
-      --font-title: 'Playfair Display', serif;
-      --font-primary: 'Work Sans', sans-serif;
+      --font-title: 'Eczar', serif;
+      --font-primary: 'Libre Franklin', sans-serif;
     }
 
     body {
