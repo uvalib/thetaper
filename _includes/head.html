@@ -6,6 +6,8 @@
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
 
+  <link href="https://fonts.googleapis.com/css?family=Playfair+Display|Work+Sans" rel="stylesheet">
+
   {% assign custom_url = site.url | append: site.baseurl %}
   {% assign full_base_url = custom_url | default: site.github.url %}
 
@@ -38,16 +40,10 @@
 
 
   <style is="custom-style" include="uvalib-theme">
-    /*
-    body {
-      margin: 0;
-      padding: 0;
+
+    :root {
+      --font-primary: 'Work Sans', sans-serif;
     }
-    uvalib-logo {
-      width: 100px;
-      display: inline-block;
-    }
-    */
 
     body {
       margin: 0;
@@ -115,6 +111,7 @@
     }
 
     app-toolbar h1, app-toolbar h2 {
+      font-family: 'Playfair Display', serif;
       color: var(--color-white);
     }
     app-toolbar h2[condensed-title] {
@@ -160,10 +157,6 @@
     }
     .content {
       width: 100%;
-/*
-      margin-left: 40px;
-      margin-right: 40px;
-*/
       max-width: 900px;
     }
 
