@@ -5,11 +5,11 @@ comments: true
 date: '2016-11-02 12:14 -0400'
 title: Welcome to the Taper
 ---
-Welcome to The Taper, a blog about copyright and related library policy issues as seen from my office at the [University of Virginia Library](http://library.virginia.edu), the spiritual (and, originally, the [physical](http://rotunda.virginia.edu/history)) heart of Thomas Jefferson’s “academical village.” I’m Brandon Butler, the new(-ish) Director of Information Policy for the Library, and I’ll be the blog’s primary author. It will also be my privilege to host guest posts from my colleagues at the Library and beyond, who will appear on these pages in the coming days and weeks to share their thoughts on the policy scene and let you know about all the cool stuff they are doing to foster a better-functioning ecosystem for teaching, learning, and scholarship, on Grounds and beyond. 
+Welcome to The Taper, a blog about copyright and related library policy issues as seen from my office at the [University of Virginia Library](http://library.virginia.edu), the spiritual (and, originally, the [physical](http://rotunda.virginia.edu/history)) heart of Thomas Jefferson’s “academical village.” I’m Brandon Butler, the new(-ish) Director of Information Policy for the Library, and I’ll be the blog’s primary author. It will also be my privilege to host guest posts from my colleagues at the Library and beyond, who will appear on these pages in the coming days and weeks to share their thoughts on the policy scene and let you know about all the cool stuff they are doing to foster a better-functioning ecosystem for teaching, learning, and scholarship, on Grounds and beyond. Read on for some thoughts on the blog's name and our Founder's founding insight. 
 
 We are moving fast and breaking stuff, as they say, when it comes to the design of this blog. Fonts, headers, layout, and more are likely to change in coming days as we play with the [platform](https://jekyllrb.com "Jekyll homepage") we're using to host our posts. Bear with us, and pardon our progress.
 
-I hope you’ll bookmark us, or subscribe to our feed, to get updates on our work and to hear what we think about the news of the day in the neighboring kingdoms of Library- and Copyrightland. Read on for some thoughts on the blog's name and our Founder's founding insight. <!--more-->
+I hope you’ll bookmark us, or subscribe to our feed, to get updates on our work and to hear what we think about the news of the day in the neighboring kingdoms of Library- and Copyrightland. <!--more-->
 
 ## The Taper: A Foundational Insight
 
