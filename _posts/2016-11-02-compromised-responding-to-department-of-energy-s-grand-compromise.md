@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 comments: true
 date: '2016-11-04 10:00 -0400'
 title: Compromised? Responding to Department of Energy’s “Grand Compromise”
