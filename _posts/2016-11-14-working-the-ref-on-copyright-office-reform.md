@@ -1,15 +1,13 @@
 ---
 layout: post
-published: false
+published: true
 comments: true
 date: '2016-11-14 14:18 -0500'
 title: Working the Ref on Copyright Office Reform
 excerpt_separator: <!--more-->
-categories: ''
-excerpt: ''
 ---
 
-The [Washington Post](https://www.washingtonpost.com/entertainment/music/with-change-at-the-top-of-copyright-office-a-battle-brews-over-free-content/2016/11/07/a8c0b140-a4ea-11e6-8042-f4d111c862d1_story.html?curator=MusicREDEF) and the [Wall Street Journal](http://www.wsj.com/articles/a-copyright-coup-in-washington-1478127088) have both run pieces full of wild speculation about sinister forces conspiring with the new Librarian of Congress, Dr. Carla Hayden, to change the guard at the Copyright Office in order to, like, undermine copyright as we know it, man. Libraries let people read books for free, Don Henley told the *Post*, so firing Pallante must be part of a library-tech conspiracy to suppress the royalty rates YouTube pays to songwriters. 
+Change is in the air in Washington, D.C., and everyone is talking about it. Of course I'm referring to the Copyright Office. The [Washington Post](https://www.washingtonpost.com/entertainment/music/with-change-at-the-top-of-copyright-office-a-battle-brews-over-free-content/2016/11/07/a8c0b140-a4ea-11e6-8042-f4d111c862d1_story.html?curator=MusicREDEF) and the [Wall Street Journal](http://www.wsj.com/articles/a-copyright-coup-in-washington-1478127088) have both run pieces full of wild speculation about sinister forces conspiring with the new Librarian of Congress, Dr. Carla Hayden, to change the guard at the Copyright Office in order to, like, undermine copyright as we know it, man. Libraries let people read books for free, Don Henley told the *Post*, so firing Pallante must be part of a library-tech conspiracy to suppress the royalty rates YouTube pays to songwriters. 
 
 Wait, what?
 
@@ -42,4 +40,4 @@ We Jeffersonians know better. [Copyright is not a natural right](http://thetaper
 
 The Librarian of Congress is a tough lady; as her city erupted after the death of Freddie Gray, Hayden supported her staff’s impulse to [open the doors](https://americanlibrariesmagazine.org/blogs/the-scoop/qa-carla-hayden-baltimore/) of the Enoch Pratt Free Library to create a safe space for folks to gather, talk, and heal. She doesn't seem like someone you can bully, and suggesting she’s a puppet for Google or George Soros or whomever is maybe not the way to her heart. 
 
-She has an opportunity to choose a Register that serves all of us, and I hope she will. I'll say more about what such a Register might need to know and understand in a future post. 
+She has an opportunity to choose a Register that serves all of us, and I hope she will. I'll say more about what such a Register might need to know and understand in a future post.
