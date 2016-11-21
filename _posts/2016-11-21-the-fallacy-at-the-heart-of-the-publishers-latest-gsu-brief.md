@@ -9,7 +9,7 @@ excerpt_separator: <!--more-->
 
 > Fellow man! Your whole life, like a sandglass, will always be reversed and will ever run out again, - a long minute of time will elapse until all those conditions out of which you were evolved return in the wheel of the cosmic process. And then you will find every pain and every pleasure, every friend and every enemy, every hope and every error, every blade of grass and every ray of sunshine once more, and the whole fabric of things which make up your life. 
 
-Friedrich Nietzsche, *Notes on the Eternal Recurrence*
+> Friedrich Nietzsche, *Notes on the Eternal Recurrence*
 
 In times of great change and tumult, we in library- and copyright-land can take a measure of comfort in at least one [eternal recurrence](https://en.wikipedia.org/wiki/Eternal_return#cite_ref-8): the Georgia State course reserves case grinding on and on. <!--more-->
 
@@ -30,7 +30,7 @@ It is hard to blame them. Once you get those numbers in your head, you can hardl
 ## Fallacy to the Rescue
 So the publishers respond by arguing that, as a matter of law, courts cannot look at those numbers. If I have my hand out, but you won’t pay me, that’s market harm. And, what’s more, all market harm is equally fatal to fair use. Before you know it, by this logic, the whole game is over and they’ve won.
 
-Of course, there is no reason courts should ignore the degree or extent of market harm as they weigh factor four. Indeed, it seems fairly reasonable to consider not only the existence of a market effect, but also the *extent* of that effect. This helps tell the court how much weight to give the fourth factor as it weighs all four factors (and any other relevant info—the factors are non-exclusive) together “in light of the purposes of copyright.”[Campbell v. Acuff-Rose Music, Inc.](https://scholar.google.com/scholar_case?q=campbell+v.+acuff-rose&hl=en&as_sdt=6,47&case=16686162998040575773&scilh=0) at 578 (1994)]
+Of course, there is no reason courts should ignore the degree or extent of market harm as they weigh factor four. Indeed, it seems fairly reasonable to consider not only the existence of a market effect, but also the *extent* of that effect. This helps tell the court how much weight to give the fourth factor as it weighs all four factors (and any other relevant info—the factors are non-exclusive) together “in light of the purposes of copyright.” [*Campbell*](https://scholar.google.com/scholar_case?q=campbell+v.+acuff-rose&hl=en&as_sdt=6,47&case=16686162998040575773&scilh=0) at 578 (1994)]
 
 The publishers’ fundamental error is to draw an inappropriate negative inference from the doctrine we have on transformative use. The Supreme Court tells us in *Campbell* that “when…the second use is transformative, market substitution is at least less certain, and market harm may not be so readily inferred.” Indeed, transformative uses like parody and criticism are usually immune to claims of market harm insofar as the harm is a result of their critical character; copyright is not an entitlement to silence critics and prevent harm of the kind that might result from a bad review or a devastating parody.
 
@@ -40,7 +40,7 @@ The publishers have asked the 11th Circuit to commit a supercharged version of t
 
 This is absurd. All that the courts have told us is that market harm from substitution is “cognizable.” Even where there may be such harm, the kind that comes from market substitution, *Campbell* tells us this: 
 
-> “Market harm is a matter of degree, and the importance of this factor will vary, not only with the amount of harm, but also with the relative strength of the showing on the other factors.”[*Campbell*](https://scholar.google.com/scholar_case?q=campbell+v.+acuff-rose&hl=en&as_sdt=6,47&case=16686162998040575773&scilh=0) at 590, n.21.
+> “Market harm is a matter of degree, and the importance of this factor will vary, not only with the amount of harm, but also with the relative strength of the showing on the other factors.” [*Campbell*](https://scholar.google.com/scholar_case?q=campbell+v.+acuff-rose&hl=en&as_sdt=6,47&case=16686162998040575773&scilh=0) at 590, n.21.
 
 Courts evaluating fair use claims must weigh the extent of these harms against the other factors, including the non-profit, educational character of Georgia State’s use. That’s exactly what the district court did. 
 
