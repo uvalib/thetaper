@@ -1,11 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 comments: true
 date: '2016-11-21 11:52 -0500'
 title: The Fallacy at the Heart of the Publishers' Latest GSU Brief
-categories: ''
-excerpt: ''
 excerpt_separator: <!--more-->
 ---
 
