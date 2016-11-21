@@ -4,6 +4,9 @@ published: false
 comments: true
 date: '2016-11-21 11:52 -0500'
 title: The Fallacy at the Heart of the Publishers' Latest GSU Brief
+categories: ''
+excerpt: ''
+excerpt_separator: <!--more-->
 ---
 
 > Fellow man! Your whole life, like a sandglass, will always be reversed and will ever run out again, - a long minute of time will elapse until all those conditions out of which you were evolved return in the wheel of the cosmic process. And then you will find every pain and every pleasure, every friend and every enemy, every hope and every error, every blade of grass and every ray of sunshine once more, and the whole fabric of things which make up your life. 
