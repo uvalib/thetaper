@@ -1,12 +1,10 @@
 ---
 layout: post
-published: false
+published: true
 comments: true
 date: '2016-12-14 11:27 -0500'
 title: 'Libraries and Copyright: 42 Experts Weigh In'
-categories: ''
-excerpt: ''
-excerpt_separator: ''
+excerpt_separator: <!--more-->
 ---
 Today I  sent a [letter](/images/42-Experts-Letter-re-CO-signed.pdf) on behalf of 42 copyright lawyers, scholars, and expert librarians to leaders in Congress. In it, we explain the rich relationship between libraries and copyright, and urge Congress to keep the Office where it has lived for more than a century: inside the Library of Congress. We hope this letter will be a useful input as the House Judiciary Committee considers the first part of its copyright reform agenda, announced earlier this week in a [one-pager](https://judiciary.house.gov/wp-content/uploads/2016/12/Copyright-Reform.pdf) and short [YouTube clip](https://www.youtube.com/watch?v=pW208w84nHM) focused on the Copyright Office. The Duke University Libraries sent [a fantastic letter](http://blogs.library.duke.edu/scholcomm/2016/12/14/where-should-the-copyright-office-live/) yesterday, the Library Copyright Alliance (LCA) issued a [clear preliminary statement](http://www.districtdispatch.org/2016/12/17746/), and I expect there will be more input from the library community as this discussion continues.
 
