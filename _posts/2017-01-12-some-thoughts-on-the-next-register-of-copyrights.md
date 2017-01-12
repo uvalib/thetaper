@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 comments: true
 date: '2017-01-12 15:32 -0500'
 title: Some thoughts on the next Register of Copyrights
