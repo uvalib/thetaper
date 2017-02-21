@@ -1,9 +1,12 @@
 ---
 layout: post
-published: false
+published: true
 comments: true
 date: '2017-02-20 23:01 -0500'
 title: 'Fair Use and Open Access: Two Great Tastes That Taste Great Together'
+categories: ''
+excerpt: ''
+excerpt_separator: ''
 ---
 Fair use and open access are two crucial tools that serve the same core purpose: making information maximally available and useful without running afoul of copyright law. A comprehensive strategy for increasing access to knowledge has to bring both tools to bear (at least in [countries where fair use or something like it is available](http://infojustice.org/wp-content/uploads/2013/03/band-and-gerafi-2013.pdf)). 
 <!--more-->
