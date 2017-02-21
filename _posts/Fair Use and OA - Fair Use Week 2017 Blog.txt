@@ -2,7 +2,7 @@
 layout: post
 published: true
 comments: true
-date: '2017-02-20 22:45 -0500'
+date: '2017-02-20 21:45 -0500'
 title: 'Fair Use and Open Access: Two Great Tastes That Taste Great Together'
 excerpt_separator: <!--more-->
 ---
