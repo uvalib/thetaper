@@ -5,6 +5,8 @@ comments: true
 date: '2017-02-20 23:01 -0500'
 title: 'Fair Use and Open Access: Two Great Tastes That Taste Great Together'
 ---
+*cross-posted at Harvard's [Library Copyright Blog](http://blogs.harvard.edu/copyrightosc/2017/02/21/fair-use-week-2017-day-two-with-guest-expert-brandon-butler/)*
+
 Fair use and open access are two crucial tools that serve the same core purpose: making information maximally available and useful without running afoul of copyright law. A comprehensive strategy for increasing access to knowledge has to bring both tools to bear (at least in [countries where fair use or something like it is available](http://infojustice.org/wp-content/uploads/2013/03/band-and-gerafi-2013.pdf)). 
 <!--more-->
 And yet, it is a tempting rhetorical strategy to deprecate fair use as part of the argument for open access, or for copyright reform generally. Fair use, we are sometimes told, is too weak, too uncertain, too risky, so we must turn to open access/open licensing as the one true path to unlocking knowledge. Lawrence Lessig may be the most common source for the view, [articulated](https://en.wikipedia.org/wiki/Free_Culture_(book)#cite_ref-85) in his book *Free Culture*, that “fair use in America simply means the right to hire a lawyer.”
