@@ -15,6 +15,8 @@ And yet, it is a tempting rhetorical strategy to deprecate fair use as part of t
 
 ![tumblr_mrl7l98KIU1seji43o1_r3_1280.png]({{site.baseurl}}/images/tumblr_mrl7l98KIU1seji43o1_r3_1280.png)
 
+*from the genius mashup of the Smiths and Peanuts, [This Charming Charlie](http://thischarmingcharlie.tumblr.com/post/58417454263).*
+
 Once that political misconception is cleared away, however, we still have to address the tricky legal questions that arise when fair use and open access are mixed together in practice. One of the trickiest is whether the author of an article published under an open license like CC-BY may incorporate portions of others’ works into her new CC-licensed work under fair use, as she would if she published in a traditional way? Kevin Smith actually [addressed this issue](https://blogs.library.duke.edu/scholcomm/2014/09/25/fair-use-open-access-incompatible/) a few years ago, observing that the CC-BY license itself holds the key: 
 
 > Licensors should clearly mark any material not subject to the license. This includes other CC-licensed material, or material used under an exception or limitation to copyright.
