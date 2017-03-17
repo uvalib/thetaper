@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 comments: true
 date: '2017-03-16 21:08 -0400'
 title: Operationalizing Non-Consumptive Fair Use with the HathiTrust
