@@ -1,9 +1,10 @@
 ---
 layout: post
-published: false
+published: true
 comments: true
 date: '2017-05-18 10:02 -0400'
 title: Green Shoots in Spring at the Library of Congress and the Copyright Office
+excerpt_separator: <!--more-->
 ---
 
 Imagine if you could download a .ZIP file with every single Copyright Office record, from the beginning of time thru, say, 2014, in a standardized and searchable format, free online. Who owns what, when it was published, whether it was renewed, even (dare to dream) when copyrights were sold or licensed exclusively to others, all in your choice of standard formats. What could people build around that free dataset? What could scholars learn? What deals could get done to revive forgotten works for new audiences?
