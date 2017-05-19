@@ -1,14 +1,11 @@
 ---
 layout: post
-published: true
+published: false
 comments: true
 date: '2017-05-19 09:00 -0400'
 title: >-
   Does Fair Use Affect Academic Authors’ Incentive to Write? Some Lessons from
   Authors of Works from the GSU Course Reserves Case
-categories: ''
-excerpt: ''
-excerpt_separator: ''
 ---
 *This post was co-authored by David Hansen and Brandon Butler and cross posted on [The Taper ](http://thetaper.library.virginia.edu/)and on [Duke University Libraries’ Scholarly Communications Blog.](https://blogs.library.duke.edu/scholcomm/)*
 
