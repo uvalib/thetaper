@@ -1,12 +1,12 @@
 ---
 layout: post
-published: false
+published: true
 comments: true
 date: '2017-06-30 15:37 -0400'
 title: Recent Supreme Court IP Cases Through a Library Lens
 categories: ''
 excerpt: ''
-excerpt_separator: ''
+excerpt_separator: <!--more-->
 ---
 The US Supreme Court wrapped up its most recent term last week, and it was a big one for intellectual property and access to information. Three opinions in particular strike me as having interesting, if indirect, implications for libraries and their users. The patent case *[Impressions Products v. Lexmark](https://www.supremecourt.gov/opinions/16pdf/15-1189_ebfj.pdf)* and the First Amendment case *[Packingham v. North Carolina](http://www.scotusblog.com/case-files/cases/packingham-v-north-carolina/)* bode well for core library interests, signaling broad solicitude for owners’ rights (in contrast to IP-holders’ rights) and the right to access the Internet, respectively. The trademark case *[Matal v. Tam](http://www.scotusblog.com/case-files/cases/lee-v-tam/)* is less encouraging, but only indirectly so; the court misunderstood a fundamental fact about intellectual property and so missed an opportunity to recognize the government’s discretion to shape IP policy in service of the public interest.
 
