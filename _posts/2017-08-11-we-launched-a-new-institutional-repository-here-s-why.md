@@ -4,10 +4,9 @@ published: true
 comments: true
 date: '2017-08-11 10:25 -0400'
 title: We Launched a New Institutional Repository. Here's why.
-categories: ''
-excerpt: ''
-excerpt_separator: ''
 ---
+*A guest post by [Ellen Catz Ramsey](http://static.lib.virginia.edu/directory/staff/ecr2c.html), UVA's Director of Scholarly Repository Services.*
+
 We just launched a shiny new [open content repository](https://www.library.virginia.edu/libra/open/) here at UVA. It is the final part of a three-phase project to replace our original institutional repository which was a bit ahead of, and then extremely behind, its time.
 
 So what? [Institutional repositories are dead](http://scitechsociety.blogspot.sg/2016/07/let-ir-rip.html), long live the [pre-print server](https://osf.io/preprints/), right?
