@@ -1,8 +1,0 @@
----
-layout: post 
-published: true
-title:  "test" 
-date:   2017-11-13T20:07:22.222Z 
----
-
-test post
