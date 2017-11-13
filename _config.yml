@@ -27,6 +27,10 @@ disqus:
 markdown: kramdown
 theme: minima
 
+github:
+  repo: uvalib/thetaper
+  branch: master
+
 prose:
   siteurl: 'http://thetaper.library.virginia.edu/'
   #relativeLinks: 'http://thetaper.library.virginia.edu/links.jsonp'
