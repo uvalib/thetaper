@@ -1,11 +1,16 @@
 ---
 layout: post
-published: false
+published: true
 comments: true
 date: '2018-02-26 23:20 -0500'
 title: >-
   Guest Blog: Student Remixer Tyler Garling on the Cultural Shift (Back) Toward
   Sharing
+categories:
+  - fair use week
+  - fair use
+  - remix
+  - guest blog
 ---
 
 *The following guest blog post was written by Tyler Garling, a student who recently took Steph Ceraso’s [Remix class](https://digitalwritingremix.wordpress.com/). Tyler will be talking about his audio remix project at our [Fair Use Week event](https://www.facebook.com/events/170977473523442/), The State of the Remix @ UVA, today, Feb. 27, from 9am-Noon at Harrison-Small Auditorium. Below Tyler talks about the ethos of remix—a vision of creativity that is open and collaborative. Fair use exists to enable exactly that kind of ethos, so this is a great way to continue our celebration of [Fair Use Week](https://fairuseweek.org) 2018.*
