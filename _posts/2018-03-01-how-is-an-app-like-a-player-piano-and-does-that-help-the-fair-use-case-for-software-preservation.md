@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 comments: true
 date: '2018-03-01 08:08 -0500'
 title: >-
