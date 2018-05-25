@@ -1,13 +1,14 @@
 ---
-layout: post 
+layout: post
 published: true
-title:  "Bob Schwartz on The Demise Of Copyright Toleration" 
-date:   2018-05-25T13:27:30.464Z 
+title: Bob Schwartz on The Demise Of Copyright Toleration
+date: 'Fri May 25 2018 09:27:30 GMT-0400 (EDT)'
+comments: true
 ---
 
 > Although denying fair use, these content owners were acknowledging a larger truth about copyright, the Internet, and even the law in general: It works largely due to toleration. Not every case is clear; not every outcome can be enforced; and not every potential legal outcome can be endured. Instead, “grey area” conduct must be impliedly licensed, or at least tolerated.  
 
-Long-time copyright lawyer (and jazz band leader!) Bob Schwartz, from [The Demise Of Copyright Toleration | Techdirt](https://www.techdirt.com/articles/20180523/00333639884/demise-copyright-toleration.shtml). 
+Long-time copyright lawyer (and jazz band leader!) Bob Schwartz, from [The Demise Of Copyright Toleration](https://www.techdirt.com/articles/20180523/00333639884/demise-copyright-toleration.shtml). 
 
 Universities are very, very well-acquainted with the necessity for wiggle room and gray areas in copyright, and with the capacity for rightsholders to overreach and attempt to monetize behavior that should be "tolerated" (or, IMO, recognized as fair use), discrediting the entire copyright system in the process.  One need look no further than the efforts of collecting agencies like the Copyright Clearance Center in the US or Access Copyright in Canada, both of whom build their business model entirely on the notion that campuses should not only spend billions annually licensing and buying content, but they should also pay a kind of blanket protection fee to cover every time a student or faculty-member sends a PDF to a colleague or posts a book excerpt to a course website. 
 
