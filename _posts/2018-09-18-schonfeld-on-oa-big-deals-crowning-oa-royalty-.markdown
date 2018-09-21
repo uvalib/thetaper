@@ -1,8 +1,9 @@
 ---
-layout: post 
-published: true
-title:  "Schonfeld on OA Big Deals: "Crowning OA Royalty"" 
-date:   2018-09-18T15:25:12.683Z 
+layout: post
+published: false
+comments: true
+date: '2018-09-21 12:22 -0400'
+title: A Cautionary Note on Read and Publish
 ---
 
 > Without authors’ price sensitivity as part of the model and by instead crowning the OA Royalty, there is every reason to believe that the Read and Publish Big Deal will be just as problematic for academia as has been the traditional Big Deal. 
