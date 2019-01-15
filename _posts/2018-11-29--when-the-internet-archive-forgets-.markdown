@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 comments: true
 date: '2018-11-29 15:10 -0500'
 title: When The Internet Archive Forgets
