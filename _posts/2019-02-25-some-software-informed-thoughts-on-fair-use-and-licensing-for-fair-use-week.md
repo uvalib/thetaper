@@ -1,12 +1,12 @@
 ---
 layout: post
-published: false
+published: true
 comments: true
 date: '2019-02-25 21:31 -0500'
 title: Some Software-informed Thoughts on Fair Use and Licensing for Fair Use Week
 publish: true
 ---
-(To be cross-posted at Harvard Library's Fair Use Week blog!)
+([Cross-posted](https://blogs.harvard.edu/copyrightosc/2019/02/26/fair-use-week-2019-day-two-with-guest-expert-brandon-butler/) at Kyle Courtney's *Copyright at Harvard Library* blog. Thanks, Kyle, for the invitation!)
 
 I thought I knew a fair bit about fair use—then I started [doing more work with software](https://www.softwarepreservationnetwork.org). That's when I realized I hadn't thought quite enough about fair use and licenses. This fair use week, I want to share a little bit of what I've been thinking. For too long my quick-and-dirty rule of thumb for licensed content was that fair use would be of little or no value for works covered by a license. That's not an accurate picture, however, and it does a disservice to fair use!
 
@@ -29,4 +29,3 @@ There is one circumstance where license terms and fair use can come into direct 
 In these cases, though, what is the consequence for the licensee who breaks her promise? I'd suggest that if such uses are still fair, then failure to comply with the license can't make you a copyright infringer. You may be in breach of the agreement, and the licensor could sue for damages due to the breach, but the extraordinary statutory damages (infamously up to $150k per work for willful infringement) associated with copyrights are off the table. This should lower the stakes considerably for folks considering fair use.
 
 One last thing you can consider if you're concerned about anti-fair use language in a license agreement: a contract only binds the parties to the agreement, not third parties. Someone who comes to possess a digital work without ever affirmatively agreeing to license terms (e.g., a second-hand purchaser who never sees a shrink-wrap license or clicks on a pop-up "I agree" button) is not likely to be bound by those terms. They would also not be able to benefit from the license, but that's where fair use would have a role to play.
-
