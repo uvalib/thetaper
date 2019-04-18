@@ -1,8 +1,9 @@
 ---
-layout: post 
-published: true
-title:  ""Knowledge to the people"" 
-date:   2019-04-09T20:21:09.318Z 
+layout: post
+published: false
+comments: true
+date: '2019-04-18 14:07 -0400'
+title: 'UC President Janet Napolitano: "Knowledge to the People"'
 ---
 
 UC system President Janet Napolitano has a nice post up today (a great coincidence with [our statement](https://news.library.virginia.edu/2019/04/09/statement-from-deans-and-directors-of-virginia-research-libraries-on-the-university-of-california-systems-termination-of-contract-with-elsevier/)) with a poignant rallying cry to public (and publicly funded) institutions: 
