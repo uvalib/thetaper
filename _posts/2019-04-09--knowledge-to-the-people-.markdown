@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 comments: true
 date: '2019-04-18 14:07 -0400'
 title: 'UC President Janet Napolitano: "Knowledge to the People"'
