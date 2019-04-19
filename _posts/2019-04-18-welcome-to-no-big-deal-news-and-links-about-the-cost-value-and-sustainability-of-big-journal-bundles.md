@@ -1,14 +1,11 @@
 ---
 layout: post
-published: false
+published: true
 comments: true
 date: '2019-04-18 14:01 -0400'
 title: >-
   Welcome to "No Big Deal?": News and Links About the Cost, Value, and
   Sustainability of Big Journal Bundles
-categories: ''
-excerpt: ''
-excerpt_separator: ''
 ---
 Today we are launching [No Big Deal?](https://www.library.virginia.edu/news/big-deal), a new feature of UVA Library News that will track the latest events and scholarship about the biggest vendors serving research libraries like ours. Tracking, shaping, and responding to this landscape has always been part of what the Library does, and we would like to share some of what we are seeing, doing, and thinking with you, the faculty, students, and researchers who use our collections. 
 
@@ -20,7 +17,7 @@ From time to time we may also highlight some [foundational texts](http://www.bud
 
 ## Sharing Information Is Key
 
-A key source of dysfunction in the market for scholarly resources is the separation of the user of these resources (you, if you’re part of the UVA community) from the purchaser (the University, via the Library’s collections budget). As the Library considers whether and how to change the way it invests in resources like Big Deals, we will share what we are learning from our own analyses. We have already published an initial set of [budget disclosures](https://www.library.virginia.edu/collections/disclosures) that show what we are spending on our biggest journal packages, and how often (or how rarely...) some titles in these packages are actually used by our faculty. We have an even richer set of bibliometric data from the last 10 years or so that tells us not only which articles were read at UVA, but also which were cited, and where our faculty publish. All of this can help us get a clearer picture of the value of our biggest deals.
+A key source of dysfunction in the market for scholarly resources is the separation of the user of these resources (you, if you’re part of the research community here at UVA) from the purchaser (the University, via the Library’s collections budget). As the Library considers whether and how to change the way it invests in resources like Big Deals, we will share what we are learning from our own analyses. We have already published an initial set of [budget disclosures](https://www.library.virginia.edu/collections/disclosures) that show what we are spending on our biggest journal packages, and how often (or how rarely...) some titles in these packages are actually used by our faculty. We have an even richer set of bibliometric data from the last 10 years or so that tells us not only which articles were read at UVA, but also which were cited, and where our faculty publish. All of this can help us get a clearer picture of the value of our biggest deals.
 
 We will also be looking to you, our user community, to learn what you value and how you use the collections we build for you. In the meantime, these regular news updates and issue briefs are one way that we will share what we know and the stories we are following in this changing landscape. 
 
@@ -30,4 +27,3 @@ Next week, we'll say a little more about the history of the Big Deal and why the
 ## Postscript: Think Globally, Act Locally
 
 While much of the news we highlight on this new page page will be institutional, national, or even international in scope, it is important to realize that individuals can make choices that help change the dynamic, too. We’ve highlighted some of them in the sidebar of the No Big Deal [landing page](https://www.library.virginia.edu/news/big-deal), and we will grow that list as we identify new opportunities and tools that might interest you. The unifying theme in these action steps is reclaiming control of scholarship and making choices about publication and related issues that are informed by their long-term consequences. These choices are not always easy, and some important incentives [aren’t yet aligned](https://www8.nationalacademies.org/pa/projectview.aspx?key=51293) with the deeper values of the research enterprise, but if more people consider taking these kinds of steps where possible, each step moves us closer to a better, more sustainable system.
-
