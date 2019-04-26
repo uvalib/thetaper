@@ -19,7 +19,7 @@ The Big Deal has been the subject of quite a few interesting long reads — deep
 
 The perfect place to start, I think, is with a lively history of scholarly publishing by Stephen Buranyi for the Guardian, entitled “[Is the Staggeringly Profitable Business of Scientific Publishing Bad for Science?](https://www.theguardian.com/science/2017/jun/27/profitable-business-scientific-publishing-bad-for-science)” 
 
-You can probably guess the answer, but the most interesting thing about the piece isn’t its version of the oft-repeated litany of dysfunctions in scholarly publishing. That part is good, and it is laid out in a clever narrative way in the piece’s introductory section, but the real highlight of the piece is it’s central story, which revolves around publishing tycoon Robert Maxwell, whose ambition and military connections put him in the right place at the right time to build the system of academic journals we are struggling to reform today. 
+You can probably guess the answer, but the most interesting thing about the piece isn’t its version of the oft-repeated litany of dysfunctions in scholarly publishing. That part is good, and it is laid out in a clever narrative way in the piece’s introductory section, but the real highlight of the piece is its central story, which revolves around publishing tycoon Robert Maxwell, whose ambition and military connections put him in the right place at the right time to build the system of academic journals we are struggling to reform today. 
 
 The story shows Maxwell pioneering all of the system’s excesses. The profit-driven proliferation of journal titles: 
 
