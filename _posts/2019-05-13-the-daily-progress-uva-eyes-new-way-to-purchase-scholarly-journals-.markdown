@@ -1,8 +1,9 @@
 ---
-layout: post 
+layout: post
 published: true
-title:  "The Daily Progress: "UVa eyes new way to purchase scholarly journals"" 
-date:   2019-05-13T13:53:15.248Z 
+comments: true
+date: '2019-05-12 16:13 -0400'
+title: 'Daily Progress: UVa eyes new way to purchase scholarly journals'
 ---
 
 > According to information provided by UVa, several large journal packages consume about 40% of the libraries’ collections budget. Elsevier, which offers the most expensive package, provided 3,354 journals in 2018 at a cost of $1.8 million, or 19% of the collections budget that year.
