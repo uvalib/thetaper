@@ -1,0 +1,21 @@
+---
+layout: post
+published: true
+comments: true
+date: '2019-09-06 16:09 -0400'
+title: 'Weekend Big Deal Longread(s) for Friday, 9/6'
+---
+
+This week I wanted to share two shorter pieces with you, both from the Scholarly Kitchen blog, a venue that publishes analysis of scholarly publishing that is often from a more industry-friendly perspective, but with contributions from librarians and neutral analysts as well. 
+
+The first piece is by Roger Schonfeld, one of the aforementioned analysts, a consultant from Ithaka S+R. Roger has been following the Big Deal cancellation and transformation discussions closely, and has issued some compelling warnings to both sides. For libraries he flagged the [dangers of “read and publish”](https://scholarlykitchen.sspnet.org/2018/09/04/read-publish-good-academy/) deals, then to publishers he warned of the value they seem to be losing through “[leakage](https://scholarlykitchen.sspnet.org/2019/03/07/value-big-deal-leakage/).” 
+
+In his latest, Roger puts the two pieces together, in a sense, and asks, “[Will Libraries Help Publishers Prop Up the Value of the Big Deal?](https://scholarlykitchen.sspnet.org/2019/09/03/libraries-prop-up-big-deal/)” If libraries were purely interested in saving money (whether to balance troubled budgets, for the sake of [bibliodiversity](https://en.wikipedia.org/wiki/Bibliodiversity), or for the sake of [investing in open infrastructure](https://investinopen.org) instead), the “leakage” phenomenon (the increasing availability of legal substitutes for subscription access, e.g. through open access repositories) gives them lots of leverage to do so. Witness FSU, LSU, Germany and others who have downsized their bundles and plowed the savings into other priorities.
+
+But [reports from the OA Tipping Point conference](https://www.insidehighered.com/news/2019/08/30/pursuing-new-kind-“big-deal”-publishers) lead Roger to wonder whether libraries might end up continuing to spend big on the Big Deal, but demanding more value (in the form of increased open access) in the process. Read the [whole piece](https://scholarlykitchen.sspnet.org/2019/09/03/libraries-prop-up-big-deal/) to learn more.
+
+The second piece focuses on one of the main measures of (declining) value in Big Deals: “cost-per-use.” We’ve been trying to problematize cost-per-use from the beginning of our conversations in Virginia, because we believe it obscures more than it reveals about the cost of Big Deals. The main way we’ve done this is by looking to OA alternatives which provide the same resource for free (taking that use out of the cost-per-use calculus reflects the true cost of the deal), and also looking at the way use is unevenly distributed across titles (since in reality we pay for unlimited use of a package of titles, not for a number of uses, knowing that the package contains low- or no-use titles suggests needless spend). 
+
+But we’ve also discussed the possibility that not every use is equally valuable. Some uses and use contexts are more critical to the university than others, for a variety of reasons—their urgency, the substitutability of one article for another, whether the user needed full text or just an abstract, etc.. Early on we explored the  idea of commissioning an ethnographic study of journal use that would help us try to identify and evaluate between different use cases, and that may still be worth thinking about.
+
+[This guest post](https://scholarlykitchen.sspnet.org/2019/09/05/guest-post-cost-per-use-overvalues-journal-subscriptions/) on Scholarly Kitchen by Curtis Kendrick from SUNY Binghamton proposes some formal models that would reflect the different values of different kinds of uses. As he acknowledges, these models would be more powerful if they could be backed up by data showing more clearly how many uses fit into each category. Otherwise, libraries who use these models will be working with (informed?) assumptions. Privacy and surveillance concerns may make it difficult to monitor uses technologically, but perhaps that’s where something like ethnography could fill in the gap. Anyway, check out Kendrick’s post to see more about how [Cost per Use Overvalues Journal Subscriptions](https://scholarlykitchen.sspnet.org/2019/09/05/guest-post-cost-per-use-overvalues-journal-subscriptions/).
