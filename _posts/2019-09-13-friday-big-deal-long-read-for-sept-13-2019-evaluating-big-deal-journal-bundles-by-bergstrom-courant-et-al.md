@@ -4,8 +4,8 @@ published: true
 comments: true
 date: '2019-09-13 15:51 -0400'
 title: >-
-  Friday Big Deal Long Read for Sept. 13, 2019: Evaluating Big Deal Journal
-  Bundles, by Bergstrom, Courant, et al.
+  Weekend Big Deal Longread for Friday, Sept. 13, 2019: Evaluating Big Deal
+  Journal Bundles, by Bergstrom, Courant, et al.
 ---
 This week’s Longread is a stroll down memory lane to 2014 to read a pathbreaking article, [Evaluating Big Deal Journal Bundles](https://www.pnas.org/content/111/26/9425.abstract), by Ted Bergstrom, Paul Courant, R. Preston McAfee, and Michael A. Williams. The authors used Freedom of Information Act requests to amass a collection of Big Deal journal contracts from a variety of institutions. Elsevier actually brought legal challenges to two of these requests, filing a lawsuit in Washington state claiming that their prices are trade secrets, and contesting another FOIA request in Texas. State authorities rejected both challenges, clearing the way for the the first major comparison of journal bundle deals across a variety of providers and types of institutions.
 
