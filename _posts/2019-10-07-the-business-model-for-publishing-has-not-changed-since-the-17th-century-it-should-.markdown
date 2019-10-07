@@ -1,8 +1,13 @@
 ---
-layout: post 
+layout: post
 published: true
-title:  "The business model for publishing has not changed since the 17th century. It should." 
-date:   2019-10-07T14:45:58.243Z 
+title: >-
+  The business model for publishing has not changed since the 17th century. It
+  should.
+date: 'Mon Oct 07 2019 10:45:58 GMT-0400 (EDT)'
+comments: true
+categories:
+  - Big Deal
 ---
 
 Elaine Westbrooks gets it. She's the Vice Provost for University Libraries and University Librarian at UNC-Chapel Hill, and she's just inaugurated what looks to be a series of posts on the need to transform our relationship to scholarly journals (and, more importantly, their commercial publishers) with an essay that shows how very far we've come from the origins of scholarly journals as a service by and for scholars. 
