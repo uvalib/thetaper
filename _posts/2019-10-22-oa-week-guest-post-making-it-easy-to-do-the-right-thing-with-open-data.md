@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 comments: true
 date: '2019-10-23 09:00 -0400'
 title: 'OA Week Guest Post: Making It Easy to Do the Right Thing with Open Data'
@@ -43,8 +43,4 @@ In the absence of strong requirements or compelling career rewards for data shar
 
 The UVA Library offers all of these supports. The Research Data Services group offers workshops and help with funder data management plans. The Scholarly Communications group supports open repositories ([LibraData](https://www.library.virginia.edu/libra/datasets/) and [LibraOpen](https://www.library.virginia.edu/libra/open/))—places to make your research open. 
 
-So come talk with us and let us help you share your data. It’s good for science, for the world, and even for the impact of your own research.   
-
-
-  
-
+So come talk with us and let us help you share your data. It’s good for science, for the world, and even for the impact of your own research.
