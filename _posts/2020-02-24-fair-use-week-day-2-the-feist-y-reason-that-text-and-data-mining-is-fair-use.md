@@ -1,13 +1,13 @@
 ---
 layout: post
-published: false
+published: true
 comments: true
 date: '2020-02-24 20:03 -0500'
 title: >-
   Fair Use Week Day 2: The *Feist*-y Reason That Text and Data Mining is Fair
   Use
 ---
-*cross-posted at [Fair Use Week Blog](http://fairuseweek.org) at Harvard.*
+*cross-posted at the [Fair Use Week Blog](http://blogs.harvard.edu/copyrightosc/2020/02/25/fair-use-week-2020-day-two-with-guest-expert-brandon-butler/) at Harvard.*
 
 Happy Fair Use Week! This is a happy week, indeed, for me, because fair use is my favorite copyright doctrine. But my favorite copyright decision just may be *[Feist v. Rural Telephone Co.](https://en.wikipedia.org/wiki/Feist_Publications,_Inc.,_v._Rural_Telephone_Service_Co)*, a case about…telephone books! 
 
@@ -62,4 +62,4 @@ Judge Leval goes on to argue that the right to create derivative works is limite
 
 > Unlike the reading experience that the Google Partners program or the Amazon Search Inside the Book program provides [or the listening experience that Ringtones provide], the snippet function does not provide searchers with any meaningful experience of the *expressive content* of the book.  (emphasis added)
 
-So, the fact/expression dichotomy, defended most memorably in *Feist*, does a *lot* of work in the Google Books opinion. And that is a good thing, because it grounds the right to text and data mine in fundamental copyright and Constitutional principles with roots as deep and broad as the fair use doctrine itself. 
+So, the fact/expression dichotomy, defended most memorably in *Feist*, does a *lot* of work in the Google Books opinion. And that is a good thing, because it grounds the right to text and data mine in fundamental copyright and Constitutional principles with roots as deep and broad as the fair use doctrine itself.
