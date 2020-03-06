@@ -1,8 +1,11 @@
 ---
-layout: post 
-published: true
-title:  "Friday Big Deal [Long]read: "How the academic publishing oligopoly skews debates on the cost of publishing," by Samuel Moore" 
-date:   2020-03-06T19:16:30.248Z 
+layout: post
+published: false
+comments: true
+date: '2020-03-06 15:02 -0500'
+title: >-
+  Weekend Big Deal Longread for March 6: "How the academic publishing oligopoly
+  skews debates on the cost of publishing"
 ---
 
 Happy Friday! This week brings another modest entry in our Big Deal Longread series; we might more accurately call this a "read," TBH, because it's not that long at all. But it's still a thoughtful and thought-provoking entry in the discussion about the future of academic publishing. In ["How the academic publishing oligopoly skews debates on the cost of publishing,"](https://www.samuelmoore.org/2020/03/05/how-the-academic-publishing-oligopoly-skews-debates-on-the-cost-of-publishing/) Moore provides some useful reminders about the diversity of publishers and publishing models out there, and the value of preserving (and growing) that diversity. He also explains how the concentration of power in the hands of just a few (mostly commercial) publishers has obscured that diversity, leading to discussions that emphasize openness or affordability without recognizing that even an open, affordable landscape could be dominated by a dysfunctional oligopoly in ways that harm researchers. 
