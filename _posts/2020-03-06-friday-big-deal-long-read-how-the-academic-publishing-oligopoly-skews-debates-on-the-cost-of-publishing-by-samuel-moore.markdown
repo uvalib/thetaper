@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 comments: true
 date: '2020-03-06 15:02 -0500'
 title: >-
