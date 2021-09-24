@@ -7,7 +7,7 @@ title: 'Friday Big Deal Longread: Defund Big Data Policing'
 ---
 It's been a minute since we posted anything about our friends the Big Deal academic publishing vendors. In part, it's probably because it's hard to stay mad at this busted business model now that [we've left it behind](https://sparcopen.org/news/2021/with-50-cut-virginia-research-libraries-recalibrate-relationship-with-elsevier/). Unfortunately, just when we thought we were out, it seems they are pulling us back in.
 
-Sarah Lamdan of CUNY Law School writes about big data and policing, and lately she's been writing a lot about the ways the police use big data brokers like our friends Thomson Reuters and RELX. As Lamdan writes:
+Sarah Lamdan of CUNY Law School writes about big data and policing, and lately she's been writing a lot about the ways the police use big data brokers like our friends Thomson Reuters and RELX (the company that owns academic publisher Elsevier). As Lamdan writes:
 
 > Thomson Reuters and RELX are the US police force’s major law enforcement data brokers. Data brokers make billions of dollars selling our information to marketing firms, political consultants, and other operations that benefit from knowing who we are on a granular level. Thomson Reuters and RELX give police huge data collections about all of us containing billions of datapoints.
 
