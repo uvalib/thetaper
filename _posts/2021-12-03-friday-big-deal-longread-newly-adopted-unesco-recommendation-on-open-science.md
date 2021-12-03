@@ -1,12 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 comments: true
 date: '2021-12-03 10:12 -0500'
 title: 'Friday Big Deal Longread: Newly Adopted UNESCO Recommendation on Open Science'
-categories: ''
-excerpt: ''
-excerpt_separator: ''
 ---
 The open science movement achieved a major victory last week when UNESCO member states unanimously approved a [Recommendation on Open Science](https://unesdoc.unesco.org/ark:/48223/pf0000379949.locale=en). It's key objectives and areas of action are:
 
