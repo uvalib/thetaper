@@ -1,12 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 comments: true
 date: '2022-02-18 15:33 -0500'
 title: 'Friday Big Deal Longread: OSTP Report on Federal Open Access Policies'
-categories: ''
-excerpt: ''
-excerpt_separator: ''
 ---
 In a new report published this week, the US Office of Science and Technology Policy recounts
 
