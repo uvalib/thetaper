@@ -1,8 +1,9 @@
 ---
-layout: post 
+layout: post
 published: true
-title:  "Friday Metric Quick Bit: SDS Dean Bourne wrestling with "the curse of the h-index"" 
-date:   2022-03-04T18:41:39.507Z 
+comments: true
+date: '2022-03-04 14:06 -0500'
+title: SDS Dean Phil Bourne wrestles with the Curse of the h-index
 ---
 
 Phil Bourne, the dean of the School of Data Science here at UVA, has a concise and compelling new blog post up this week about what he calls [The Curse of the h-index](https://datascience.virginia.edu/news/deans-blog-curse-h-index). In it, Dean Bourne lays out some vivid examples from his own work to show how far the h-index falls short of actually representing anything like an individual's scholarly merit. 
