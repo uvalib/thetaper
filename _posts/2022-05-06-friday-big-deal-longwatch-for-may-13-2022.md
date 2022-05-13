@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 comments: true
 date: '2022-05-06 10:43 -0400'
 title: 'Friday Big Deal Longwatch for May 13, 2022'
