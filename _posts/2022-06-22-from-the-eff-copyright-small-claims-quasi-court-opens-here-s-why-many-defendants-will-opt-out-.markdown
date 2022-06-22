@@ -1,8 +1,9 @@
 ---
-layout: post 
+layout: post
 published: true
-title:  "From the EFF: Copyright "Small Claims" Quasi-Court Opens. Here's Why Many Defendants Will Opt Out." 
-date:   2022-06-22T14:55:32.732Z 
+comments: true
+date: '2022-06-22 13:23 -0400'
+title: The EFF on the CCB
 ---
 
 As a postscript to my post last week about the advent of the Copyright Claims Board, readers should check out this new blog post by Mitch Stoltz, copyright attorney at user rights group Electronic Frontier Foundation, for succinct and perceptive rundown of the likely problems the CCB will face (and will likely create for accused infringers) as it gets up and running. [Copyright "Small Claims" Quasi-Court Opens. Here's Why Many Defendants Will Opt Out.](https://www.eff.org/deeplinks/2022/06/copyright-small-claims-quasi-court-opens-heres-why-many-defendants-will-opt-out)
