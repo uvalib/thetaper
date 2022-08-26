@@ -1,0 +1,20 @@
+---
+layout: post
+published: true
+comments: true
+date: '2022-08-26 17:21 -0400'
+title: 'Friday Big Deal Long Read: Zero Embargo is Here, and It''s a Very Big Deal'
+---
+If you don't know by now, well, let me tell you: yesterday the White House Office of Science and Technology Policy (WHOSTP) [published an update](https://www.whitehouse.gov/ostp/news-updates/2022/08/25/ostp-issues-guidance-to-make-federally-funded-research-freely-available-without-delay/) to it's 2013 memo on access to federally funded research, and (among many other things) it eliminated the 12 month embargo on free public access. SPARC (to whom we all owe an enormous debt of gratitude for being such indefatigable and effective advocates for public access to information) has a [fantastic summary](https://sparcopen.org/news/2022/taxpayers-to-get-immediate-access-to-publicly-funded-research/). Since this regular feature is all about highlighting the Longreads, I want to draw your attention to the primary sources.
+
+First, of course, you can read the [latest memo](https://www.whitehouse.gov/wp-content/uploads/2022/08/08-2022-OSTP-Public-Access-Memo.pdf), issued by OSTP Director Dr. Alondra Nelson. In it you'll find important details, like the timing (agencies have differing schedules for compliance, but all should be on board by January 1, 2026), the scope (articles AND data AND book chapters and other kinds of peer-reviewed research outputs), and more.
+
+But wait, there's more. In addition to the main blog post announcing the policy, there's a [follow-up post that goes deeper](https://www.whitehouse.gov/ostp/news-updates/2022/08/25/breakthroughs-for-alldelivering-equitable-access-to-americas-research/) into the connection between zero-embargo access to a wider array of research and equity for all Americans in their access to knowledge. There we see that the administration is wrestling with some of the ways that (some forms of) open access can reenact and even sharpen the inequities of traditional, paywall publishing.
+
+Finally, from that second blog post you can follow a link to an OSTP study on the [Economic Landscape of Federal Public Access Policy](https://www.whitehouse.gov/wp-content/uploads/2022/08/08-2022-OSTP-Public-Access-Congressional-Report.pdf). Notably, the report surfaces some of the most scandalous facts about the economics of scholarly publishing. One paragraph bears pasting here in its entirety:
+
+> Recent estimates from the literature on the cost of producing an article range from $200 to $1,000, with the high end representing a selective, prestigious journal with a 90 percent rejection rate. Over the last decade, publishers have seen total revenues grow well in excess of the rate of inflation (sometimes as high as 110 percent of inflation). A recent article estimates that the average total profit expectation for a representative article by a publisher of scholarly articles to be about $1,200, although that is conservative relative to estimates made by SPARC, which estimates profits between $1,500 and $2,000 per article for publishers. Comparatively, the “production” cost of depositing a federally funded research article into a free public access repository can be, conservatively, as low as $15 and even lower under a federally owned and managed repository such as PubMed. 
+
+While there is plenty of cheerleading in the report for transformative and gold open access, these nuggets of information about the associated costs, along with the administration's commitments to equity, at least give a toe-hold for those of us who continue to believe that the commercial publishers are extracting too much wealth from the system, and distorting science in the process.
+
+This has been a long time coming, and we've still got a little ways to go for implementation, but it is certainly worth [taking a moment to savor](https://twitter.com/bc_butler/status/1562971770033819650?s=21&t=wby74GepL-80GbsCc5Aupg) a major policy victory for free public access to information.
