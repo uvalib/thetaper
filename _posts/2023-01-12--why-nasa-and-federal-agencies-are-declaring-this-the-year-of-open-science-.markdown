@@ -1,8 +1,9 @@
 ---
-layout: post 
+layout: post
 published: true
-title:  ""Why NASA and federal agencies are declaring this the Year of Open Science"" 
-date:   2023-01-12T15:54:54.256Z 
+comments: true
+date: '2023-01-12 10:56 -0500'
+title: Why NASA and federal agencies are declaring this the Year of Open Science
 ---
 
 This week the White House Office of Science and Technology Policy [announced](https://www.whitehouse.gov/ostp/news-updates/2023/01/11/fact-sheet-biden-harris-administration-announces-new-actions-to-advance-open-and-equitable-research/) that 2023 will be the Year of Open Science in federal agencies. This builds on their [announcement last year](https://www.whitehouse.gov/ostp/news-updates/2022/08/25/ostp-issues-guidance-to-make-federally-funded-research-freely-available-without-delay/) of a deeper and more comprehensive open science policy for federally funded research. NASA's Open Science lead Chelle Gentemann wrote an [essay for *Nature*](https://www.nature.com/articles/d41586-023-00019-y) explaining how she became an open science fan, what a commitment to open science means for NASA, and how any research entity can take action to promote open science. Gentemann describes the agencies' steps in committing to the Year in Open Science as follows:
