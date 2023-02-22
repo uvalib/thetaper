@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 comments: true
 date: '2023-02-22 11:02 -0500'
 title: >-
@@ -28,6 +28,9 @@ Thanks to the practice and teachings of fair use, the UVA Dance Program will hav
 
 Here are two episodes from the podcast *Hoo’s Got Moves*:
 
-![“Jesse Laurita-Spanglet” by Ellie Byrd](https://github.com/uvalib/thetaper/blob/master/images/PodcastFinal_EllieByrd.mp3)
-![“Christopher K. Morgan” by Christine Okenquist](https://github.com/uvalib/thetaper/blob/master/images/PodcastFinal_ChristinaOkenquist.mp3)
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1453346998%3Fsecret_token%3Ds-pdE9VlluG6F&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brandon-butler-179787747" title="Brandon Butler" target="_blank" style="color: #cccccc; text-decoration: none;">Brandon Butler</a> · <a href="https://soundcloud.com/brandon-butler-179787747/hoos-got-moves-christopher-k-morgan-by-christine-okenquist/s-pdE9VlluG6F" title="Hoo&#x27;s Got Moves: &quot;Christopher K. Morgan&quot; by Christine Okenquist" target="_blank" style="color: #cccccc; text-decoration: none;">Hoo&#x27;s Got Moves: &quot;Christopher K. Morgan&quot; by Christine Okenquist</a></div>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1453347853&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brandon-butler-179787747" title="Brandon Butler" target="_blank" style="color: #cccccc; text-decoration: none;">Brandon Butler</a> · <a href="https://soundcloud.com/brandon-butler-179787747/hoos-got-moves-podcast-episode-jesse-laurita-spanglet-by-ellie-byrd" title="Hoo&#x27;s Got Moves Podcast Episode: “Jesse Laurita-Spanglet” by Ellie Byrd" target="_blank" style="color: #cccccc; text-decoration: none;">Hoo&#x27;s Got Moves Podcast Episode: “Jesse Laurita-Spanglet” by Ellie Byrd</a></div>
+
 
