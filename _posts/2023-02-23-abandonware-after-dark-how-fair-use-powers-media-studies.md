@@ -12,6 +12,7 @@ Fair use is essential to my everyday work. As a professor of media studies, I de
 For this year’s [Fair Use Week](https://www.fairuseweek.org/), I would like to reflect on the implications of fair use for a different sort of cultural material: software. 
 
 ![After Dark software packaging art]({{site.baseurl}}/images/01-After-Dark-Box-CHM-102642661-06-01.jpg)
+
 *After Dark for Windows, Berkeley Systems, 1989. Source: Computer History Museum, https://www.computerhistory.org/revolution/personal-computers/17/405/1212.*
 
 
@@ -24,6 +25,7 @@ One of my favorite challenges is to re-create the famous “flying toasters” a
 At a time when relatively few people owned a computer, After Dark was a huge hit. The flying toaster became an icon of the `90s—evidenced now by countless nostalgic blog posts, YouTube compilations, and kitschy crafts on Etsy. Yet, its creation was more or less an accident. In an interview from 2007, Eastman recalled staying up late to write code while his partner was working the night shift. As he wandered through the empty house, he spotted the toaster sitting on the kitchen counter: “[My sleep-deprived brain put wings on it](https://lowendmac.com/2007/aggressively-stupid-the-story-behind-after-dark/).”
 
 ![Flying Toasters screensaver gif]({{site.baseurl}}/images/02-flying-toasters-640x480.gif)
+
 *Clipping of the “flying toasters” from After Dark version 2.0 for Macintosh. Source: Internet Archive, https://archive.org/details/AfterDark_mac.*
 
 
@@ -38,6 +40,7 @@ Beyond this instrumental purpose, however, students begin to question the aesthe
 To answer these questions, we might look beyond the software to the digital archives of [techie periodicals](https://www.google.com/search?q=%22berkeley+systems%22+%22after+dark%22&tbm=bks&tbs=bkt%3Am%2Cbkms%3A1168684103302644829) like PC Magazine, daily newspapers, or the business press. *After Dark* seemed to strike a nerve at just the moment when personal computing was becoming mainstream. *New York Times* writer John Markoff lauded *After Dark* for its “whimsy” in the face of increasingly “boring” software, and quoted an industry insider who describe it as “[software that speaks to the heart and the imagination](https://www.nytimes.com/1992/10/16/business/turning-a-computer-screen-into-a-window-on-whimsy.html).”
 
 ![New York Times clipping of After Dark review]({{site.baseurl}}/images/03-Whimsy-NYT-1992-10-16.png)
+
 *Markoff, John. “Turning a Computer Screen Into a Window on Whimsy.” The New York Times, October 16, 1992, sec. Business. https://www.nytimes.com/1992/10/16/business/turning-a-computer-screen-into-a-window-on-whimsy.html.*
 
 The *After Dark* exercise is one of my favorites because it bridges the social and technical dimensions of media studies. Students journey from the manipulation of pixels and code to the cultural significance of a computer program that works only when you don’t.
@@ -49,6 +52,7 @@ The social study of software pushes on the conventional boundaries of fair use. 
 Further complicating the situation, software programs are inextricably linked to their environments. We cannot run _After Dark_ version 2.0 without also running the Apple Macintosh System Software 7.5.3 Revision 2. And since we don’t have access to old Macintosh computers in the classroom, we run *After Dark* in [web-based Mac emulator on the Internet Archive](http://blog.archive.org/2017/04/16/early-macintosh-emulation-comes-to-the-archive/). It’s copyrighted software (and turtles) all the way down.
  
 ![Screenshot of After Dark preferences pane]({{site.baseurl}}/images/04-After-Dark-Screenshot-2023-02-22.png)
+
 *Screenshot of the After Dark control panel and copyright notice. Source: Internet Archive, https://archive.org/details/AfterDark_mac.*
 
 Over the past two decades, software has become the medium for everyday life. As our cultural heritage is increasingly encoded in streams of digital information, accessible only with the help of copyright-protected programs, I find that the need to protect fair use in software has never been stronger.
@@ -58,4 +62,3 @@ It is not enough that our right to make critical and pedagogical use of digital 
 For the moment, I am encouraged by the After Dark exercise. It is a highlight of the course, and a glimpse of what critical software studies could look like in the future. But every semester, I worry that some piece of the required machinery will go missing, lost to the overzealous protection of copyright.
 
 This is an exciting period of opportunity. Either we will be pushed to piracy and the work will become harder, riskier, and require more arcane knowledge. Or, with the help of far-reaching fair use rights, we will continue to build libraries and archives that allow hands-on exploration of our shared digital pasts, accessible to students, researchers, and the public with winged toasters for everyone.
-
