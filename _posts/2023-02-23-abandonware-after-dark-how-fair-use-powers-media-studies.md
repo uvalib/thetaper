@@ -1,13 +1,12 @@
 ---
 layout: post
-published: false
+published: true
 comments: true
 date: '2023-02-23 16:40 -0500'
 title: Abandonware "After Dark"—How Fair Use Powers Media Studies
-categories: ''
-excerpt: ''
-excerpt_separator: ''
 ---
+*A Fair Use Week Guest Post by UVA Media Studies Prof. [Kevin Driscoll](https://kevindriscoll.info)*
+
 Fair use is essential to my everyday work. As a professor of media studies, I depend on the ability to clip, cut, quote, archive, analyze, and compare cultural materials protected by copyright. And, in most cases, I never think about copyright. Thanks to the right of fair use, I can focus on my research and teaching without ever stopping to ask permission of a rights holder or worrying about whether I am going to be sued. 
 
 For this year’s [Fair Use Week](https://www.fairuseweek.org/), I would like to reflect on the implications of fair use for a different sort of cultural material: software. 
@@ -47,7 +46,7 @@ And yet, this project is only possible thanks to the robust protections of fair 
 
 The social study of software pushes on the conventional boundaries of fair use. Due to the nature of running code, we could not take a “portion” of After Dark without the whole thing breaking down. Nor would a screenshot or video recording be an adequate substitute for the interactive program. 
 
-Further complicating the situation, software programs are inextricably linked to their environments. We cannot run *After Dark* version 2.0 without also running the Apple Macintosh System Software 7.5.3 Revision 2. And since we don’t have access to old Macintosh computers in the classroom, we run *After Dark* in [web-based Mac emulator on the Internet Archive](http://blog.archive.org/2017/04/16/early-macintosh-emulation-comes-to-the-archive/). It’s copyrighted software (and turtles) all the way down.
+Further complicating the situation, software programs are inextricably linked to their environments. We cannot run _After Dark_ version 2.0 without also running the Apple Macintosh System Software 7.5.3 Revision 2. And since we don’t have access to old Macintosh computers in the classroom, we run *After Dark* in [web-based Mac emulator on the Internet Archive](http://blog.archive.org/2017/04/16/early-macintosh-emulation-comes-to-the-archive/). It’s copyrighted software (and turtles) all the way down.
  
 ![Screenshot of After Dark preferences pane]({{site.baseurl}}/images/04-After-Dark-Screenshot-2023-02-22.png)
 *Screenshot of the After Dark control panel and copyright notice. Source: Internet Archive, https://archive.org/details/AfterDark_mac.*
