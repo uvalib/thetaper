@@ -6,11 +6,17 @@ date: '2023-02-22 11:02 -0500'
 title: >-
   Thanks to fair use, podcasting about dancing is easier than dancing about
   architecture
+categories: ''
+excerpt: ''
+excerpt_separator: ''
 ---
 
 *A Fair Use Week Guest Post by Prof. [Katie Schetlick](https://www.katieschetlick.com), UVA Drama Dept.*
 
 In my course How Dance Matters we explore the conundrum of attempting to capture, to hold still dance. We begin with the question of the archive, particularly how the archive reveals the matter (material) historically considered to constitute “the dance.” In three words: what matter matters? We soon learn, through a study of early 18th century dance notation developed in France under the auspices of King Louis XIV, that dance in a western historical context becomes defined by what can be accounted for, and in [Beauchamp-Feuillet notation](https://publicdomainreview.org/collection/collection-of-dances-in-choreography-notation-1700) that was the path of the dancer through space, the intricate movement of the feet, and simple hand motions. That was the dance, period. Nothing was considered to be unaccounted for. There was no sense of lack. With a codified notation system that the King divined as THE system of “making dance legible on paper,” came the ability to author dance, quite literally to write dances, to become a choreo*grapher*. Dance masters with the knowledge of the notation system quickly took to inscribing their name at the top of the inked steps they reconfigured. 
+
+![Example of 18C French dance notation]({{site.baseurl}}/6985258668_343a3e1fc6_o.jpg)
+
 
 My students, born well after the advent of personal video cameras, of course quickly recognize the shortcomings of this 18th century system for our contemporary notions of choreographed dance. What about the torso? The head? The pelvis? The uniqueness of each dancing body? It becomes clear to them that the ontology or beingness of dance and even notions of corporeality itself are historically and culturally specific. The immediate assumption, however, is that our current technology makes up for any previous lack. But then comes the question, “Is a video recording of a dance a wholly accurate and complete archive of the dance work?”
 
@@ -32,5 +38,3 @@ Here are two episodes from the podcast *Hoo’s Got Moves*:
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1453346998%3Fsecret_token%3Ds-pdE9VlluG6F&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brandon-butler-179787747" title="Brandon Butler" target="_blank" style="color: #cccccc; text-decoration: none;">Brandon Butler</a> · <a href="https://soundcloud.com/brandon-butler-179787747/hoos-got-moves-christopher-k-morgan-by-christine-okenquist/s-pdE9VlluG6F" title="Hoo&#x27;s Got Moves: &quot;Christopher K. Morgan&quot; by Christine Okenquist" target="_blank" style="color: #cccccc; text-decoration: none;">Hoo&#x27;s Got Moves: &quot;Christopher K. Morgan&quot; by Christine Okenquist</a></div>
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1453347853&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brandon-butler-179787747" title="Brandon Butler" target="_blank" style="color: #cccccc; text-decoration: none;">Brandon Butler</a> · <a href="https://soundcloud.com/brandon-butler-179787747/hoos-got-moves-podcast-episode-jesse-laurita-spanglet-by-ellie-byrd" title="Hoo&#x27;s Got Moves Podcast Episode: “Jesse Laurita-Spanglet” by Ellie Byrd" target="_blank" style="color: #cccccc; text-decoration: none;">Hoo&#x27;s Got Moves Podcast Episode: “Jesse Laurita-Spanglet” by Ellie Byrd</a></div>
-
-
