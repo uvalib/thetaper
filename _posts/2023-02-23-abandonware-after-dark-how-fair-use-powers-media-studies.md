@@ -16,7 +16,7 @@ For this year’s [Fair Use Week](https://www.fairuseweek.org/), I would like to
 *After Dark for Windows, Berkeley Systems, 1989. Source: Computer History Museum, https://www.computerhistory.org/revolution/personal-computers/17/405/1212.*
 
 
-In my Computational Media course at UVA, students learn to think critically about the place of software in society through a series of hands-on programming challenges. We use a wonderful open access textbook titled [Aesthetic Programming](https://aesthetic-programming.net/) by Winnie Soon and Geoff Cox (Open Humanities Press, 2020) and the free and open source JavaScript library, [p5.js](https://p5js.org/).
+In my Computational Media course at UVA, students learn to think critically about the place of software in society through a series of hands-on programming challenges. We use a wonderful open access textbook titled [Aesthetic Programming](https://aesthetic-programming.net/) by Winnie Soon and Geoff Cox (Open Humanities Press, 2020) and the free and open source JavaScript library, [p5.js](https://p5js.org/), created by Lauren Lee McCarthy and currently lead by Qianqian Ye.
  
 One of my favorite challenges is to re-create the famous “flying toasters” animation from the [After Dark](https://en.wikipedia.org/wiki/After_Dark_(software)) screensaver collection. 
 
@@ -37,7 +37,7 @@ The term “screen saver” suggests that the flying toasters were intended to p
 
 Beyond this instrumental purpose, however, students begin to question the aesthetic value and symbolic meaning of the flying toaster. What might this surreal image tell us about computing culture of the period? In what sort of workplace would this humor have been welcome? Was it the digital equivalent of a silly coffee cup or a Far Side calendar?  
 
-To answer these questions, we might look beyond the software to the digital archives of [techie periodicals](https://www.google.com/search?q=%22berkeley+systems%22+%22after+dark%22&tbm=bks&tbs=bkt%3Am%2Cbkms%3A1168684103302644829) like PC Magazine, daily newspapers, or the business press. *After Dark* seemed to strike a nerve at just the moment when personal computing was becoming mainstream. *New York Times* writer John Markoff lauded *After Dark* for its “whimsy” in the face of increasingly “boring” software, and quoted an industry insider who describe it as “[software that speaks to the heart and the imagination](https://www.nytimes.com/1992/10/16/business/turning-a-computer-screen-into-a-window-on-whimsy.html).”
+To answer these questions, we might look beyond the software to the digital archives of [techie periodicals](https://www.google.com/search?q=%22berkeley+systems%22+%22after+dark%22&tbm=bks&tbs=bkt%3Am%2Cbkms%3A1168684103302644829) like PC Magazine, daily newspapers, or the business press. *After Dark* seemed to strike a nerve at just the moment when personal computing was becoming mainstream. *New York Times* writer John Markoff lauded *After Dark* for its “whimsy” in the face of increasingly “boring” software, and quoted an industry insider who described it as “[software that speaks to the heart and the imagination](https://www.nytimes.com/1992/10/16/business/turning-a-computer-screen-into-a-window-on-whimsy.html).”
 
 ![New York Times clipping of After Dark review]({{site.baseurl}}/images/03-Whimsy-NYT-1992-10-16.png)
 
@@ -47,9 +47,9 @@ The *After Dark* exercise is one of my favorites because it bridges the social a
 
 And yet, this project is only possible thanks to the robust protections of fair use. At every step in the process, we are pulling copyrighted material off the internet and into the classroom for analysis, exploration, and critique. 
 
-The social study of software pushes on the conventional boundaries of fair use. Due to the nature of running code, we could not take a “portion” of After Dark without the whole thing breaking down. Nor would a screenshot or video recording be an adequate substitute for the interactive program. 
+The social study of software pushes on the conventional boundaries of fair use. Due to the nature of running code, we could not take a “portion” of *After Dark* without the whole thing breaking down. Nor would a screenshot or video recording be an adequate substitute for the interactive program. 
 
-Further complicating the situation, software programs are inextricably linked to their environments. We cannot run _After Dark_ version 2.0 without also running the Apple Macintosh System Software 7.5.3 Revision 2. And since we don’t have access to old Macintosh computers in the classroom, we run *After Dark* in [web-based Mac emulator on the Internet Archive](http://blog.archive.org/2017/04/16/early-macintosh-emulation-comes-to-the-archive/). It’s copyrighted software (and turtles) all the way down.
+Further complicating the situation, software programs are inextricably linked to their environments. We cannot run _After Dark_ version 2.0 without also running the Apple Macintosh System Software 7.5.3 Revision 2. And since we don’t have access to old Macintosh computers in the classroom, we run *After Dark* in a [web-based Mac emulator on the Internet Archive](http://blog.archive.org/2017/04/16/early-macintosh-emulation-comes-to-the-archive/). It’s copyrighted software (and turtles) all the way down.
  
 ![Screenshot of After Dark preferences pane]({{site.baseurl}}/images/04-After-Dark-Screenshot-2023-02-22.png)
 
