@@ -1,11 +1,14 @@
 ---
-layout: post 
+layout: post
 published: true
-title:  "Friday Read: American Sociological Association, in absentia but not silent on open science" 
-date:   2023-08-11T14:49:15.443Z 
+title: >-
+  Friday Read: American Sociological Association, in absentia but not silent on
+  open science
+date: 'Fri Aug 11 2023 10:49:15 GMT-0400 (Eastern Daylight Time)'
+comments: true
 ---
 
-Your Friday Read this week is from Phil Cohen, a sociologist and demographer at the University of Maryland. Phil has been an open science advocate for years, and that has put him at odds with the American Sociological Association, the largest professional association of sociologists in the world (per [Wikipedia](https://en.wikipedia.org/wiki/American_Sociological_Association). Phil [quit the ASA](https://familyinequality.wordpress.com/2021/11/06/why-im-leaving-the-american-sociological-association/) two years ago, citing a laundry list of issues, and (per a chart Phil [shared on Mastodon](https://mastodon.social/@philipncohen/110871244054122841) this morning) he's not the only one losing interest in what the ASA has to offer.
+Your Friday Read this week is from Phil Cohen, a sociologist and demographer at the University of Maryland. Phil has been an open science advocate for years, and that has put him at odds with the American Sociological Association, the largest professional association of sociologists in the world (per [Wikipedia](https://en.wikipedia.org/wiki/American_Sociological_Association)). Phil [quit the ASA](https://familyinequality.wordpress.com/2021/11/06/why-im-leaving-the-american-sociological-association/) two years ago, citing a laundry list of issues, and (per a chart Phil [shared on Mastodon](https://mastodon.social/@philipncohen/110871244054122841) this morning) he's not the only one losing interest in what the ASA has to offer.
 
 In this morning's blog post, Phil reflects on the group's silence in the face of the extraordinary recent achievements of a leading Black sociologist, Alondra Nelson:
 
