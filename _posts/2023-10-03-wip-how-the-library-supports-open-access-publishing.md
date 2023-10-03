@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 comments: true
 date: '2023-10-03 15:31 -0400'
 title: 'WIP: How the Library Supports Open Access Publishing'
