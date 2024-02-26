@@ -7,7 +7,7 @@ published: true
 ---
 This little blog [debuted](http://thetaper.library.virginia.edu/2016/11/02/welcome-to-the-taper.html) way back in early November 2016 (a more innocent time in so many ways), with a post about the big ideas behind copyright. That post is worth revisiting - I think it holds up! But it’s an unusual post for this blog in one sense: it doesn’t say a word about fair use! Over the ensuing 7-plus years, though, fair use was a common recurring topic, and this fair use week I’m going to indulge in a little nostalgia by surfacing some of the Taper’s Greatest Fair Use Hits over the years. The first installment is...
 
-## [“For text- and data-mining, fair use is powerful, but possession is still 9/10 of the law.”](http://thetaper.library.virginia.edu/2018/02/28/for-text-and-data-mining-fair-use-is-powerful-but-possession-is-still-9-10-of-the-law-sparc.html)
+## [“For text- and data-mining, fair use is powerful, but possession is still 9/10 of the law.”](http://thetaper.library.virginia.edu/2018/02/28/for-text-and-data-mining-fair-use-is-powerful-but-possession-is-still-9-10-of-the-law-sparc.html)(Feb. 28, 2018).
 
 This essay was [cross-posted on SPARC’s site](https://sparcopen.org/news/2018/possession-is-still-9-10-of-the-law/) and its core thesis is that the work of groups like SPARC to reform scholarly publishing and encourage open access and scholar-owned or scholar-led infrastructure is also crucial for fair use. Why? Because publishers can increasingly use their exclusive physical control over huge catalogs of works as a way to nullify fair use. Here’s why:
 
